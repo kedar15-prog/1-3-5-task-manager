@@ -1,0 +1,6 @@
+{
+  "name": "1-3-5 Daily Focus & Task Timer",
+  "description": "Daily 1-3-5 rule task manager with automated daily rollover from your master list and integrated focus timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
